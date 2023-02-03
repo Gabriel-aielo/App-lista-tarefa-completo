@@ -1,0 +1,1 @@
+Esta pasta consiste em arquivos publicos da aplicação.
